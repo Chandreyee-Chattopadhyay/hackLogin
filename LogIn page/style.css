@@ -68,7 +68,7 @@ header {
     display: flex;
     gap: 35px;
     list-style: none;
-    align-items: center;
+    align-items: left;
 }
 
 .navbar .close-btn {
